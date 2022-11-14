@@ -33,3 +33,6 @@ div {
   text-align: center;
   width: 25%;
 }
+nav > a {
+  background-color: grey;
+}
